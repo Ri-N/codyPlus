@@ -1,4 +1,4 @@
-# codyPlus - an AI Assisted Low-Code Tool Extension
+# CodyPlus - an AI Assisted Low-Code Tool Extension
 
 This repository contains information about a Software Engineering project developed at HS Mannheim, Germany in collaboration with BitExpert AG. The project was part of a competition where teams of students extended a low-code tool with AI capabilities, creating an AI-assistant to enhance the development process. Our team won the contest by delivering the most effective and innovative solution.
 
@@ -8,7 +8,7 @@ This project was a simulation of a real software development process. Students w
 
 ## The Challenge
 
-The task was to extend an existing low-code tool with an AI assistant. The main challenge was that we only had access to the code of Cody-engine, the engine responsible for generating template code, while the main low-code platform, proophboard, was not fully available for modification. This limitation pushed us to find ways to interact with the system, leading us to use the proophboard console as the main user interface for the AI assistant.
+The task was to extend an existing low-code tool with an AI assistant. The main challenge was that we only had access to the code of [cody-engine](https://github.com/proophboard/cody-engine), the engine responsible for generating template code, while the main low-code platform, [proophboard](https://prooph-board.com/), was not fully available for modification. This limitation pushed us to find ways to interact with the system, leading us to use the proophboard console as the main user interface for the AI assistant.
 
 ## AI Assistant Capabilities
 
