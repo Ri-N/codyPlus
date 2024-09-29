@@ -18,6 +18,13 @@ We integrated the Codestral AI, a locally hosted AI, as the brain behind the ass
 
 While interacting through the console offered flexibility, it also posed a challenge for user experience (UX). To overcome this, we designed a UI-prototype that provided a visual solution to simplify command-based interactions. This prototype streamlined the process, offering users a more intuitive and user-friendly interface for executing commands.
 
+## Development Environment
+### Key Technologies:
+
+  - Node.js
+  - TypeScript
+  - npm
+
 ## Available Commands
 
 - **/create**:  
