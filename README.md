@@ -65,6 +65,6 @@ Each sprint was followed by a retrospective, where we analyzed what went well an
 ## Version Control
 
 We used Git for version control, following best practices for collaboration, including frequent commits, branches for new features, and proper code reviews before merging.
-Conclusion
+## Conclusion
 
-Our solution successfully addressed the challenges posed by the competition and extended the capabilities of the proophboard low-code platform with a powerful AI assistant. Thanks to the assistant’s ability to automate code generation and system creation based on simple user commands, our team won the contest by delivering a feature-rich, highly usable product.
+Our solution successfully addressed the challenges posed by the competition and extended the capabilities of the proophboard low-code platform with a powerful AI assistant. Thanks to the assistant’s ability to automate code generation and system creation based on simple user commands, our team won the contest.
