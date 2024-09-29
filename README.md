@@ -25,6 +25,10 @@ While interacting through the console offered flexibility, it also posed a chall
   - TypeScript
   - npm
 
+## Project Management
+
+To manage tasks and tickets effectively, we used GitHub's Projects tab. This helped us track progress, organize tasks into sprints, and ensure that all features and bug fixes were managed in an organized way. The advantage of using GitHub’s Projects tab is the seamless integration of issues directly into the board, eliminating the need for external project management tools.
+
 ## Available Commands
 
 - **/create**:  
