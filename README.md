@@ -1,6 +1,6 @@
 # CodyPlus - an AI Assisted Low-Code Tool Extension
 
-This repository contains information about a Software Engineering project developed at HS Mannheim, Germany in collaboration with BitExpert AG. The project was part of a competition where teams of students extended a low-code tool with AI capabilities, creating an AI-assistant to enhance the development process. Our team won the contest by delivering the most effective and innovative solution.
+This repository contains information about a Software Engineering project developed at [HS Mannheim, Germany](https://www.hs-mannheim.de/) in collaboration with [BitExpert AG](https://bitexpert.de/). The project was part of a competition where teams of students extended a low-code tool with AI capabilities, creating an AI-assistant to enhance the development process. Our team won the contest by delivering the most effective and innovative solution.
 
 ## Project Overview
 
@@ -24,8 +24,10 @@ While interacting through the console offered flexibility, it also posed a chall
 Creates a feature based on a short explanation.
 ![create](create.gif)
 - **/createPlus**:   
-Creates three features (add, delete, edit) based on a short explanation.
+Creates three features (add, delete, edit) based on a short explanation.  
+This feature is fully executable.
 ![createPlus](createPlus.gif)
+![executable](excuteable.gif)
 - **/events**:  
 Creates event cards based on a short sentence provided by the user.
 ![events](events.gif)
